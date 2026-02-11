@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="" />
+    <mapping directory="$PROJECT_DIR$/09-spring-boot-jpa-advanced-mappings/03-jpa-one-to-many" vcs="Git" />
+  </component>
+</project>
